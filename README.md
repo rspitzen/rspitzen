@@ -12,11 +12,11 @@ To build a strong foundation in cybersecurity, networking, and systems engineeri
 <!-- <a href="Link">Lab Name</a> -->
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| TCP/IP Fundamentals and Network Analysis          | <a href="https://google.com">Proxmox Network Lab</a>|
-| Packet Capture and Traffic Analysis (Wireshark) | <a href="https://google.com">Network Traffic Analysis Lab</a>|
-| Linux System Administration         | <a href="https://google.com">Proxmox Virtualization Lab</a>|
-| Virtualization and Homelab Design      | <a href="https://google.com">Proxmox Homelab</a>|
-| Programming Fundamentals (C++, Java, JavaScript) | <a href="https://google.com">Courseword and Personal Projects</a>|
+| TCP/IP Fundamentals and Network Analysis          ||
+| Packet Capture and Traffic Analysis (Wireshark) | |
+| Linux System Administration         | <a href="[https://google.com](https://github.com/rspitzen/Proxmox-Homelab-Infrastructure)">Proxmox Virtualization Lab</a>|
+| Virtualization and Homelab Design      | <a href="[https://google.com](https://github.com/rspitzen/Proxmox-Homelab-Infrastructure)">Proxmox Homelab</a>|
+| Programming Fundamentals (C++, Java, JavaScript) | Coursework and Personal Projects|
 
 ## Tools
 
