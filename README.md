@@ -55,6 +55,6 @@ To build a strong foundation in cybersecurity, networking, and systems engineeri
 </div>
 -->
 ## Projects
-- P<a href="https://github.com/rspitzen/Proxmox-Homelab-Infrastructure">Proxmox Homelab Infrastructure</a>
+- <a href="https://github.com/rspitzen/Proxmox-Homelab-Infrastructure">Proxmox Homelab Infrastructure</a>
 - Network Traffic Analysis Lab
 - Automation & Scripting Projects
