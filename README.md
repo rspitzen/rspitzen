@@ -14,8 +14,8 @@ To build a strong foundation in cybersecurity, networking, and systems engineeri
 |-----------------------------------------------|----------------------------|
 | TCP/IP Fundamentals and Network Analysis          ||
 | Packet Capture and Traffic Analysis (Wireshark) | |
-| Linux System Administration         | <a href="[https://google.com](https://github.com/rspitzen/Proxmox-Homelab-Infrastructure)">Proxmox Virtualization Lab</a>|
-| Virtualization and Homelab Design      | <a href="[https://google.com](https://github.com/rspitzen/Proxmox-Homelab-Infrastructure)">Proxmox Homelab</a>|
+| Linux System Administration         | <a href="https://github.com/rspitzen/Proxmox-Homelab-Infrastructure">Proxmox Virtualization Lab</a>|
+| Virtualization and Homelab Design      | <a href="https://github.com/rspitzen/Proxmox-Homelab-Infrastructure">Proxmox Homelab</a>|
 | Programming Fundamentals (C++, Java, JavaScript) | Coursework and Personal Projects|
 
 ## Tools
